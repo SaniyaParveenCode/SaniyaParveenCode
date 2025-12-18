@@ -11,4 +11,4 @@
 
 🌱 Passionate about learning and growing through hackathons and virtual internships.
 
-🔧 Skills -> C++,Python , Java/ Javascript , Web development , MYSQL , React, Node.js, MongoDB , Web Development
+🔧 Skills -> C++, Express.js ,Python , Java/ Javascript , Web development , MYSQL , React, Node.js, MongoDB , Web Development
